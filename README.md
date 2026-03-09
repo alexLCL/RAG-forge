@@ -38,6 +38,7 @@ RAGForge 面向团队和企业，提供**高准确率、全程可溯源、可大
 - **向量存储** — Chroma：本地持久化、增量索引、批量 embedding、快速更新。
 - **检索与生成** — LangChain 编排：混合检索、Query Rewrite、Rerank、重排序。
 - **安全运维** — API 限流、XSS/SQL 防护、IP 黑名单、企业日志审计，全参数 .env 配置。
+
 <image alt="QA" src="./images/QA.png" ></image>
 
 <image alt="user-manage" src="./images/user-manage.png" ></image>
