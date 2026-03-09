@@ -1,4 +1,4 @@
-# RAGForge - Production-Grade Retrieval-Augmented Generation System
+# RAGForge - Advanced RAG Knowledge Base Q&A System
 
 **A scalable, traceable, enterprise-ready RAG knowledge base Q&A engine with high accuracy and extensibility.**
 
