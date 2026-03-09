@@ -24,7 +24,7 @@ RAGForge 基于先进检索增强生成（RAG）技术，提供可靠的生产�
 [![LangChain](https://img.shields.io/badge/LangChain-powered-FF6B6B?logo=langchain)](https://www.langchain.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-<image alt="Architecture-zh" src="./images/architecture-zh.jpeg" ></image>
+<image alt="Architecture-zh" src="./images/Architecture-zh.jpeg" ></image>
 
 ## 🎯 项目定位
 
