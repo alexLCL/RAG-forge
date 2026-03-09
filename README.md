@@ -97,7 +97,6 @@ RAGForge 面向团队和企业，提供**高准确率、全程可溯源、可大
 - **Upwork** → [contact](https://upwork.com/freelancers/~018e1ea2502904a819)
 - **LinkedIn** → [contact](https://www.linkedin.com/in/changliang-liu-05b974111
 )
- **LinkedIn** → [contact](https://www.linkedin.com/in/changliang-liu-05b974111)
 
 如果这个展示对你有帮助，欢迎 Star ⭐
 </details>
@@ -165,8 +164,8 @@ Need a tailored RAG system, technical consulting, deployment help, or full proje
 Reach out via:
 
 - **GitHub Issues** 或 Discussions
-- **Upwork** → [contact](upwork.com/freelancers/~018e1ea2502904a819)
-- **LinkedIn** → [contact](www.linkedin.com/in/changliang-liu-05b974111
+- **Upwork** → [contact](https://upwork.com/freelancers/~018e1ea2502904a819)
+- **LinkedIn** → [contact](https://www.linkedin.com/in/changliang-liu-05b974111
 )
 
 
