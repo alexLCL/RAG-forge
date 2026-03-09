@@ -1,7 +1,15 @@
 # RAGForge - Production-Grade Retrieval-Augmented Generation System
 
 **A scalable, traceable, enterprise-ready RAG knowledge base Q&A engine with high accuracy and extensibility.**
+
+RAGForge delivers reliable, production-grade intelligent question-answering powered by advanced Retrieval-Augmented Generation (RAG). It supports complex document understanding, precise retrieval, grounded generation, and full traceability — ideal for enterprise knowledge management, smart customer service, compliance Q&A, and internal collaboration.
+
 <image alt="Architecture-en" src="./images/RAG-forge.png" ></image>
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-powered-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-powered-FF6B6B?logo=langchain)](https://www.langchain.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <details>
 <summary>中文版（简体中文） - Chinese (Simplified)</summary>
 
@@ -92,14 +100,6 @@ RAGForge 面向团队和企业，提供**高准确率、全程可溯源、可大
 
 如果这个展示对你有帮助，欢迎 Star ⭐
 </details>
-
-RAGForge delivers reliable, production-grade intelligent question-answering powered by advanced Retrieval-Augmented Generation (RAG). It supports complex document understanding, precise retrieval, grounded generation, and full traceability — ideal for enterprise knowledge management, smart customer service, compliance Q&A, and internal collaboration.
-
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-powered-009688?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-powered-FF6B6B?logo=langchain)](https://www.langchain.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## 🎯 Project Positioning
 
 RAGForge is designed for teams and enterprises needing **high-accuracy, fully traceable, and scalable** knowledge base Q&A. It combines state-of-the-art RAG techniques with production engineering best practices — perfect for knowledge management, intelligent customer support, regulatory/compliance Q&A, and secure internal search.
