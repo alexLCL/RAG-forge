@@ -100,6 +100,7 @@ RAGForge 面向团队和企业，提供**高准确率、全程可溯源、可大
 
 如果这个展示对你有帮助，欢迎 Star ⭐
 </details>
+
 ## 🎯 Project Positioning
 
 RAGForge is designed for teams and enterprises needing **high-accuracy, fully traceable, and scalable** knowledge base Q&A. It combines state-of-the-art RAG techniques with production engineering best practices — perfect for knowledge management, intelligent customer support, regulatory/compliance Q&A, and secure internal search.
