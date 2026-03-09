@@ -165,7 +165,7 @@ RAGForge is designed for teams and enterprises needing **high-accuracy, fully tr
 Need a tailored RAG system, technical consulting, deployment help, or full project integration?  
 Reach out via:
 
-- **GitHub Issues** 或 Discussions
+- **GitHub Issues** or Discussions
 - **Upwork** → [contact](https://upwork.com/freelancers/~018e1ea2502904a819)
 - **LinkedIn** → [contact](https://www.linkedin.com/in/changliang-liu-05b974111
 )
