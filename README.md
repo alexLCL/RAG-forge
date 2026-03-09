@@ -128,6 +128,7 @@ RAGForge is designed for teams and enterprises needing **high-accuracy, fully tr
 - **Enterprise Logging** — Structured JSON logs with rotation for ops and compliance.
 - **RAGAS Evaluation** — Production-consistent metrics for reliable benchmarking.
 - **Flexible Configuration** — Switch LLMs/embeddings, adjust chunking/retrieval params via `.env`.
+
 <image alt="QA" src="./images/QA.png" ></image>
 
 <image alt="user-manage" src="./images/user-manage.png" ></image>
